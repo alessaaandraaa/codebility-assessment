@@ -10,7 +10,7 @@ export default function RootLayout({
         <Link href="/">
           <div className="flex gap-3 text-5xl text-red-950">
             <h1 className="first-letter:font-bold">A</h1>
-            <h1 className="first-letter:font-bold">BLOG</h1>
+            <h1 className="first-letter:font-bold">BLOG'S</h1>
             <h1 className="first-letter:font-bold">COLLECTION</h1>
           </div>
           <p>[ my blog posts ]</p>
