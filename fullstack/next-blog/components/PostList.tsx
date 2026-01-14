@@ -1,6 +1,5 @@
 import { HomepagePost } from "@/types/types";
 import PostHeader from "./PostHeader";
-import Link from "next/link";
 type PostListProps = {
   posts: HomepagePost[];
 };
